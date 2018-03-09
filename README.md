@@ -8,7 +8,7 @@ Development
 
 2) Start LispWorks Personal Edition.
 
-3) Paste the following code into your console:
+3) Paste the following code into your Listener:
 
 ```cl
 ;;; coming soon...
