@@ -6,7 +6,7 @@ Something to put stuff in.
 Development
 ==
 
-1) Go to https://www.lispworks.com/download and install the LispWorks Personal Edition on your platform of choice.
+1) Go to http://www.lispworks.com/downloads/index.html and install the LispWorks Personal Edition on your platform of choice and say you're getting it for Research purposes, or whatever your other reasons might be.
 
 2) Start LispWorks Personal Edition.
 
